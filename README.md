@@ -6,6 +6,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFnZXY2azByeTM0NHF2bTFhdXJwYWhleGtrYjJueHd3aWJscnR3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -107,14 +113,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/issamrh/issamrh/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/issamrh/issamrh/output/snake.svg" alt="Snake animation" />
 
