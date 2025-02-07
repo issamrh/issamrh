@@ -115,13 +115,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg0enpqamQ2Yjl5dmI2ZHJtczEzenVycDR2enB1MnBqMGp2ODI5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZvLUtG6BZkBi0/giphy.gif"  />
+  <img src="https://profile-counter.glitch.me/issamrh/count.svg?"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/issamrh/issamrh/output/snake.svg" alt="Snake animation" />
 
 ###
