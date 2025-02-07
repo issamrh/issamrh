@@ -28,6 +28,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDU4emZiMWdlaHJ1dmJvazNpZmg4OTZpcDJyaW5yajd3MjNmeDZoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.gif"  />
+</div>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -144,6 +150,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/issamrh/issamrh/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=issamrh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
