@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRyeTdnNTM0cG53emd4ZmRiNnA3c3c1OXcwemw2Z2hlNzQ2OHE5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/85OCkXGbehmyU3g7S8/giphy.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFnZXY2azByeTM0NHF2bTFhdXJwYWhleGtrYjJueHd3aWJscnR3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
@@ -109,7 +109,19 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFnZXY2azByeTM0NHF2bTFhdXJwYWhleGtrYjJueHd3aWJscnR3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa283bXV4c2l5bXlwNGNwbDluMGljejZrZWkwdmFnamJ0NnBzaW51OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg0enpqamQ2Yjl5dmI2ZHJtczEzenVycDR2enB1MnBqMGp2ODI5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZvLUtG6BZkBi0/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/issamrh/issamrh/output/snake.svg" alt="Snake animation" />
 
 ###
