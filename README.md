@@ -101,7 +101,7 @@
   <a href="https://www.instagram.com/waluigiii9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/users/883291526673862676" target="_blank">
+  <a href="883291526673862676" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
@@ -117,11 +117,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/issamrh/count.svg?"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/issamrh/issamrh/output/snake.svg" alt="Snake animation" />
 
 ###
